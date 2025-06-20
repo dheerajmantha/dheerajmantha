@@ -4,17 +4,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/dheerajmantha/count.svg)
 
- ### Tech Stack
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,npm,flask,mysql,mongodb,postman,netlify,vercel" />
-  </a>
-
-  <br/>
 
   ### Languages
 
@@ -27,7 +16,7 @@
   ### Frameworks and Libraries
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask,spring,numpy,pandas,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask,numpy,pandas,tensorflow,pytorch" />
   </a>
 
   <br/>
