@@ -8,8 +8,6 @@
 
 # Tech Stack
 
-&ensp;
-
   ### Languages
 
   <a href="https://skillicons.dev">
