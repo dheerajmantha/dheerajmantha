@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# VISITOR COUNT
+# Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/dheerajmantha/count.svg)
 
