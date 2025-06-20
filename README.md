@@ -4,6 +4,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/dheerajmantha/count.svg)
 
+&ensp; 
+
 # Tech Stack
 
 &ensp;
@@ -32,6 +34,7 @@
 
   <br/>
 
+&ensp;
 
 # Github Stats
 
