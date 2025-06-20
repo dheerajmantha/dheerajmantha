@@ -16,7 +16,7 @@
   ### Frameworks and Libraries
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask,numpy,pandas,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask,tensorflow,pytorch" />
   </a>
 
   <br/>
