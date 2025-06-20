@@ -51,15 +51,15 @@
   ### Github Stats
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=meghana-0211&show_icons=true&theme=radical" alt="meghana-0211" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dheerajmantha&show_icons=true&theme=radical" alt="dheerajmantha" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana-0211&theme=radical" alt="meghana-0211" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajmantha&theme=radical" alt="dheerajmantha" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana-0211&layout=compact&theme=radical" alt="meghana-0211" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajmantha&layout=compact&theme=radical" alt="dheerajmantha" />
   </p>
 
 </div>
