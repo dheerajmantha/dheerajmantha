@@ -3,7 +3,6 @@
 # Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dheerajmantha)
-
 &ensp; 
 
 # Tech Stack
