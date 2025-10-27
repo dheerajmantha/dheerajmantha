@@ -2,7 +2,7 @@
   
 # Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/dheerajmantha/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=dheerajmantha)
 
 &ensp; 
 
